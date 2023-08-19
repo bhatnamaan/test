@@ -1,7 +1,0 @@
-{{#user}}
-
-Name : Numaan Shabir
-Skills: Html,css,js,java,github,sql server
-Email : numanshabir07@gmail.com
-{{/user}}
-
